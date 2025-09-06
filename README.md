@@ -1,4 +1,6 @@
 # TBTools
+<img width="1024" height="1024" alt="app" src="https://github.com/user-attachments/assets/c0233fbe-b50a-43e1-949c-f6f7a3e9459e" />
+
 TB Tools - software for Tanks Blitz and WOT Blitz
 
 Программа призвана улучшить качество игры и добавить полезные функции, которые разрабы по какой-либо причине добавлять не стали. 
@@ -23,3 +25,4 @@ Functionality at the time of version 0.0.2:
 3) Auto-detection of the cluster (does not always work, there are many independent factors for its operation)
 
 Nice features, right? How old is the game? And they are still not there... (Only RU-servers, Lesta. Wargaming will be later) 
+
