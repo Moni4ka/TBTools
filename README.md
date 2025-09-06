@@ -1,7 +1,7 @@
 # TBTools
 <img width="1057" height="921" alt="app" src="https://github.com/user-attachments/assets/65a1fa19-2e24-4454-9ca0-2bebeb45c5b6" />
 
-TB Tools - software for Tanks Blitz and WOT Blitz
+TB Tools - программа для Tanks Blitz и WOT Blitz (но чуть позже)
 
 Программа призвана улучшить качество игры и добавить полезные функции, которые разрабы по какой-либо причине добавлять не стали. 
 
@@ -15,6 +15,7 @@ TB Tools - software for Tanks Blitz and WOT Blitz
 
 
 -- Eng
+TB Tools - software for Tanks Blitz and WOT Blitz (but a little later)
 
 The program is designed to improve the quality of the game and add useful functions that the developers for some reason did not add.
 
